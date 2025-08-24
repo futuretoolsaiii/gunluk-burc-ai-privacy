@@ -63,7 +63,7 @@ Bulunduğunuz ülkeye göre aşağıdaki haklara sahip olabilirsiniz:
 - **Veri taşınabilirliği** ve **itiraz**,
 - **CCPA/CPRA** kapsamında “satış/Paylaşım”dan vazgeçme (kişisel satış yapmıyoruz, ancak reklam tanımlayıcısı paylaşımı olabilir).
 
-Talepler için bize e‑posta gönderin: **support@gunlukburc.app** (kendi e‑postanızı yazın).
+Talepler için bize e‑posta gönderin: **ialpay@hotmail.com** (kendi e‑postanızı yazın).
 
 ---
 
@@ -83,6 +83,6 @@ Gerek oldukça bu politikayı güncelleyebiliriz. En güncel sürüm Uygulama i�
 ---
 
 ## 11) İletişim
-- E‑posta: **support@gunlukburc.app**  
+- E‑posta: **ialpay@hotmail.com**  
 - Uygulama içi: **Ayarlar → Profili Düzenle / Profili Sıfırla** bölümü
 
